@@ -12,7 +12,7 @@
 I'm a Roblox Scripter used to make games, i've learned Base concept of programming and i've applicate all of them to my Roblox Project
 - 🔭 I’m currently working on Graze: Ellernate Demise!
 - 🌱 I usually learning new concept of programming .
-- 🕹️ I've followed many Big Game Fandom, but my favorite 
+- 🕹️ I've followed many Big Game Fandom, but my favorite is Touhou Project
 
 ## 📫 How to reach me:
 - [GitHub](https://github.com/CrimsonXVI)
