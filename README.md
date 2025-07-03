@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a Roblox Scripter used to make games, i've learned Base concept of programming and i've applicate all of them to my Roblox Project
+I'm a Roblox Scripter, all the thing i do is to make games, i've learned base concept of programming and i've applicate all of them to my Roblox Project
 - 🔭 I’m currently working on Graze: Ellernate Demise!
 - 🌱 I usually learning new concept of programming .
 - 🕹️ I've followed many Big Game Fandom, but my favorite is Touhou Project
