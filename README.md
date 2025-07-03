@@ -1,18 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm CrimsonXVI!
 
-<!--
-**CrimsonXVI/CrimsonXVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-![Description](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+I'm passionate about coding, open source, and building cool stuff on GitHub.  
+- 🔭 I’m currently working on awesome new projects!
+- 🌱 I’m learning new technologies every day.
+- 💬 Ask me about anything tech-related!
+
+## 📫 How to reach me:
+- [GitHub](https://github.com/CrimsonXVI)
+- [YourWebsite.com](https://yourwebsite.com) *(replace with your link!)*
+
+---
+
+## ⚡ Fun Fact:
+> "The best way to predict the future is to invent it."
+
+---
+
+![CrimsonXVI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrimsonXVI&show_icons=true&theme=radical)
