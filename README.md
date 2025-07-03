@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hello, I'm CrimsonXVI
+# Hello, I'm CrimsonXVI
 
 ![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
@@ -9,20 +9,19 @@
 
 ## 🚀 About Me
 
-I'm passionate about coding, open source, and building cool stuff on GitHub.  
-- 🔭 I’m currently working on awesome new projects!
-- 🌱 I’m learning new technologies every day.
-- 💬 Ask me about anything tech-related!
+I'm a Roblox Scripter used to make games, i've learned Base concept of programming and i've applicate all of them to my Roblox Project
+- 🔭 I’m currently working on Graze: Ellernate Demise!
+- 🌱 I usually learning new concept of programming .
+- 🕹️ I've followed many Big Game Fandom, but my favorite 
 
 ## 📫 How to reach me:
 - [GitHub](https://github.com/CrimsonXVI)
-- [YourWebsite.com](https://yourwebsite.com) *(replace with your link!)*
+- [Facebook](https://www.facebook.com/denpivet.re)
+- [Youtube](https://www.youtube.com/@RealCrimsonXVI)
 
 ---
 
 ## ⚡ Fun Fact:
-> "The best way to predict the future is to invent it."
+> "Neil Armstrong's hair was sold in 2004 for $3,000."
 
 ---
-
-![CrimsonXVI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrimsonXVI&show_icons=true&theme=radical)
