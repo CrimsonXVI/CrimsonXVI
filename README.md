@@ -1,7 +1,9 @@
-# Hi there 👋, I'm CrimsonXVI!
+<div align="center">
+# Hello, I'm CrimsonXVI
 
 ![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
+</div>
 ---
 
 ## 🚀 About Me
