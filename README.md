@@ -2,7 +2,7 @@
   
 # Hello, I'm CrimsonXVI
 
-![Welcome GIF](https://tenor.com/id/view/noob-roblox-wave-roblox-wave-hi-gif-13335242566327708638)
+![Welcome GIF](https://media1.tenor.com/m/uRBMdf-hq94AAAAC/noob-roblox.gif)
 
 </div>
 
