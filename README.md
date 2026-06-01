@@ -1,6 +1,6 @@
 <div align="center">
 
-## Reminder This Whole Page Are Outdated
+## Reminder This Whole Page Are Outdated (Last Changes A Year Ago)
   
 # Hello, I'm CrimsonXVI
 
