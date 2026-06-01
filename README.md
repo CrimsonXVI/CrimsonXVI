@@ -1,4 +1,6 @@
 <div align="center">
+
+## Reminder This Acc Kinda Outdated
   
 # Hello, I'm CrimsonXVI
 
