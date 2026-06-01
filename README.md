@@ -1,6 +1,6 @@
 <div align="center">
 
-## Reminder This Acc Kinda Outdated
+## Reminder This Whole Page Are Outdated
   
 # Hello, I'm CrimsonXVI
 
