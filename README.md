@@ -1,7 +1,5 @@
 <h1 align="center"> Hello wellcome to my page 👋 </h1>
-<p align="center">
-  <img src="https://www.citypng.com/public/uploads/preview/horizontal-red-line-png-701751694604730eliiovssol.png" alt="Project Logo" width="400">
-</p>
+![red_line](/assets/red_line.png)
 
 ## 🚀 About Me
 
