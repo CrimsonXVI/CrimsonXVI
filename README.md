@@ -1,5 +1,5 @@
 <h1 align="center"> Hello wellcome to my page 👋 </h1>
-![red_line](https://raw.githubusercontent.com/CrimsonXVI/CrimsonXVI/main/assets/red_line.png)
+![](https://github.com/CrimsonXVI/CrimsonXVI/blob/cba0d418f224d271423c607cee3e54739b0dd5ab/assets/red_line.png)
 
 ## 🚀 About Me
 
