@@ -1,10 +1,7 @@
 <div align="center">
-
-## Reminder This Whole Page Are Outdated (Last Changes A Year Ago)
   
-# Hello, I'm CrimsonXVI
+<h1 align="center"># Hello wellcome to my page 👋 </h1>
 
-![Welcome GIF](https://media1.tenor.com/m/uRBMdf-hq94AAAAC/noob-roblox.gif)
 
 </div>
 
