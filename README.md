@@ -1,9 +1,5 @@
-<div align="center">
-  
-<h1 align="center"># Hello wellcome to my page 👋 </h1>
+<h1 align="center"> Hello wellcome to my page 👋 </h1>
 
-
-</div>
 
 ## 🚀 About Me
 
