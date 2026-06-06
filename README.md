@@ -1,21 +1,46 @@
 <h1 align="center"> Hello wellcome to my page 👋 </h1>
-![red_line_lol](https://raw.githubusercontent.com/CrimsonXVI/CrimsonXVI/main/assets/red_line.png)
+<h3 align="center"> A casual lazy coder/scripter 😴 </h2>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
+<!--Introduction-->
+I'm a High-School student from SMA Negeri 1 Tajurhalang somewhere in Jawa Barat, Bogor exactly. I'm currently 10th grade.
+Programming Language i usually use are:
+<!--ProLangs-->
+<ol>
+<li><b>Lua</b></li>
+  
+  <ul>
+    <li>Roblox Projects</li>
+    <li>Roblox Physics Test</li>
+  </ul>
+      
+<li><b>Python</b></li>
+  <ul>
+    <li>Small project <nano>(wether if i'm bored)</nano></li> 
+    <li>Prototyping a Project</li>
+    <li>Competitive Programming <nano>(rarely used)</nano></li>
+  </ul>
 
-I'm a Roblox Scripter, all the thing i do is to make games, i've learned base concept of programming and i've applicate all of them to my Roblox Project
-- 🔭 I’m currently working on Graze: Ellernate Demise!
-- 🌱 I usually learning new concept of programming .
-- 🕹️ I've followed many Big Game Fandom, but my favorite is Touhou Project
+<li><b>Java</b></li>
+  <ul>
+    <ll>Small project that used an advanced library</li>
+  </ul>
 
-## 📫 How to reach me:
-- [GitHub](https://github.com/CrimsonXVI)
-- [Facebook](https://www.facebook.com/denpivet.re)
-- [Youtube](https://www.youtube.com/@RealCrimsonXVI)
 
----
+<li><b>C++</b></li>
+  <ul>
+    <ll>Mainly Competitive Programming</li>
+  </ul>
 
-## ⚡ Fun Fact:
-> "Neil Armstrong's hair was sold in 2004 for $3,000."
+</ol>
 
----
+---------
+
+<h2>📫 How to reach me:</h2>
+
+<ul>
+  <li> [GitHub](https://github.com/CrimsonXVI) </li>
+  <li> [Facebook](https://www.facebook.com/denpivet.re) </li>
+  <li> [Youtube](https://www.youtube.com/@RealCrimsonXVI) </li>
+</ul>
+
