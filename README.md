@@ -1,5 +1,5 @@
 <h1 align="center"> Hello wellcome to my page 👋 </h1>
-![](./assets/red_line.png)
+![](/assets/red_line.png)
 
 ## 🚀 About Me
 
