@@ -8,7 +8,6 @@ Programming Language i usually use are:
 <!--ProLangs-->
 <ol>
 <li><b>Lua</b></li>
-  
   <ul>
     <li>Roblox Projects</li>
     <li>Roblox Physics Test</li>
@@ -31,12 +30,12 @@ Programming Language i usually use are:
   <ul>
     <ll>Mainly Competitive Programming</li>
   </ul>
-
 </ol>
 
+I've learnt so much things from Computer Science and im glad i've reach this far.
 ---------
 
-<h2>📫 How to reach me:</h2>
+<h2>📫 How to reach me :</h2>
 
 <ul>
   <li> [GitHub](https://github.com/CrimsonXVI) </li>
