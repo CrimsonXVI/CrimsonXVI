@@ -32,7 +32,7 @@ Programming Language i usually use are:
   </ul>
 </ol>
 
-I've learnt so much things from Computer Science and im glad i've reach this far.
+<p> I've learnt so much things from Computer Science and im glad i've reach this far. </p>
 ---------
 
 <h2>📫 How to reach me :</h2>
